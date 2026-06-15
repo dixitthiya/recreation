@@ -40,7 +40,7 @@ A personal collection of my favorite campsites, campgrounds, and outdoor destina
   * 🎫 **[Site 061 · Loop Lood](https://www.recreation.gov/camping/campsites/13716)**
   * 🚗 122 mi · 2h11m · E
 
-* **[Piney Grove](https://maps.google.com/?q=County+Road+3550+New+Site+MS+38859)** — Dennis, MS
+* **[Piney Grove](https://maps.app.goo.gl/rB4Bgqo2FZtwVJuw7)** — Dennis, MS
 
   * 🎫 **[Site 051 · Loop Pgro](https://www.recreation.gov/camping/campsites/26386)**
   * 🚗 143 mi · 2h20m · NW
