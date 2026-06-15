@@ -4,13 +4,14 @@ A personal collection of my favorite campsites, campgrounds, and outdoor destina
 
 ## Campsites
 
-| Campground | Recreation.gov Site | Location | Google Maps | From Home |
-|------------|---------------------|----------|-------------|-----------|
-| Blue Bluff Campground | [Site 091 · Loop Bloo](https://www.recreation.gov/camping/campsites/46264) | Aberdeen, MS | [Map](https://maps.google.com/?q=20051+Blue+Blf+Rd+Aberdeen+MS+39730) | 127 mi · 2 hr 11 min · West |
-| Town Creek Campground | [Site 075 · Loop Tcrr](https://www.recreation.gov/camping/campsites/38111) | West Point, MS | [Map](https://maps.google.com/?q=1405+Witherspoon+Rd+West+Point+MS+39773) | 129 mi · 2 hr 13 min · West |
-| Holiday Campground | [Site 086 · Loop Looh](https://www.recreation.gov/camping/campsites/55289) | LaGrange, GA | [Map](https://maps.google.com/?q=954+Abbottsford+Rd+LaGrange+GA+30240) | 123 mi · 2 hr 15 min · East |
-| Amity Campground | [Site 61 · Loop Lood](https://www.recreation.gov/camping/campsites/13716) | Lanett, AL | [Map](https://maps.google.com/?q=1001+Co+Rd+393+Lanett+AL+36863) | 122 mi · 2 hr 11 min · East |
-| Blue Bluff Campground | [Site 45 · Loop Bloo](https://www.recreation.gov/camping/campsites/46101) | Aberdeen, MS | [Map](https://maps.google.com/?q=20051+Blue+Blf+Rd+Aberdeen+MS+39730) | 127 mi · 2 hr 11 min · West |
+| Campground                                                                                  | Recreation.gov Site                                                        | Location       | From Home                   |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | -------------- | --------------------------- |
+| [Blue Bluff Campground](https://maps.google.com/?q=20051+Blue+Blf+Rd+Aberdeen+MS+39730)     | [Site 091 · Loop Bloo](https://www.recreation.gov/camping/campsites/46264) | Aberdeen, MS   | 127 mi · 2 hr 11 min · West |
+| [Town Creek Campground](https://maps.google.com/?q=1405+Witherspoon+Rd+West+Point+MS+39773) | [Site 075 · Loop Tcrr](https://www.recreation.gov/camping/campsites/38111) | West Point, MS | 129 mi · 2 hr 13 min · West |
+| [Holiday Campground](https://maps.google.com/?q=954+Abbottsford+Rd+LaGrange+GA+30240)       | [Site 086 · Loop Looh](https://www.recreation.gov/camping/campsites/55289) | LaGrange, GA   | 123 mi · 2 hr 15 min · East |
+| [Amity Campground](https://maps.google.com/?q=1001+Co+Rd+393+Lanett+AL+36863)               | [Site 61 · Loop Lood](https://www.recreation.gov/camping/campsites/13716)  | Lanett, AL     | 122 mi · 2 hr 11 min · East |
+| [Blue Bluff Campground](https://maps.google.com/?q=20051+Blue+Blf+Rd+Aberdeen+MS+39730)     | [Site 45 · Loop Bloo](https://www.recreation.gov/camping/campsites/46101)  | Aberdeen, MS   | 127 mi · 2 hr 11 min · West |
+
 
 ## Notes
 
