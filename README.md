@@ -11,7 +11,7 @@ A personal collection of my favorite campsites, campgrounds, and outdoor destina
 | [Holiday Campground](https://maps.google.com/?q=954+Abbottsford+Rd+LaGrange+GA+30240)       | [086 · Looh](https://www.recreation.gov/camping/campsites/55289) | LaGrange, GA   | 123 mi · 2h15m · E  |
 | [Amity Campground](https://maps.google.com/?q=1001+Co+Rd+393+Lanett+AL+36863)               | [061 · Lood](https://www.recreation.gov/camping/campsites/13716) | Lanett, AL     | 122 mi · 2h11m · E  |
 | [Blue Bluff Campground](https://maps.google.com/?q=20051+Blue+Blf+Rd+Aberdeen+MS+39730)     | [045 · Bloo](https://www.recreation.gov/camping/campsites/46101) | Aberdeen, MS   | 127 mi · 2h11m · W  |
-| [Piney Grove](https://maps.google.com/?q=County+Road+3550+New+Site+MS+38859)                | [051 · Pgro](https://www.recreation.gov/camping/campsites/26386) | Dennis, MS     | 143 mi · 2h20m · NW |
+| [Piney Grove](https://maps.app.goo.gl/rB4Bgqo2FZtwVJuw7)                                    | [051 · Pgro](https://www.recreation.gov/camping/campsites/26386) | Dennis, MS     | 143 mi · 2h20m · NW |
 
 # 🏕️ Favorite Campsites
 
